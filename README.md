@@ -3,7 +3,7 @@
 * ff
 * gg
 
-```phyton
+```python
 #!/usr/bin/python 
 
 name = '' 
